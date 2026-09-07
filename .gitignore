@@ -1,7 +1,0 @@
-node_modules/
-.npm
-*.log
-.DS_Store
-Thumbs.db
-.astra.json
-.env
